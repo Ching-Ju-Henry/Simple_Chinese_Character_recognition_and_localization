@@ -26,10 +26,16 @@ The goal of this project is to recognize and localize the multiple chinese chara
 </center>
 
 **2. Some Results**
+* first image is input image
+* second image is localization
+* third image is result
+
 <table border=1>
 <tr>
 <td>
-<img src="./resize/TV_resize.jpg" width="20%"/>
+<img src="./results/result1.jpg" width="25%"/>
+<img src="./results/result2.jpg" width="35%"/>
+<img src="./results/result3.jpg" width="35%"/>
 </td>
 </tr>
 
