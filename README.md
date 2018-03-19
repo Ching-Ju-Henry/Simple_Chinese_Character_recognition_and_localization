@@ -42,5 +42,5 @@ The goal of this project is to recognize and localize the multiple chinese chara
 </table>
 
 ## Requirements
-* 
-
+* openCV, skimage, matplotlib, scipy
+* sklearn, cyvlfeat
