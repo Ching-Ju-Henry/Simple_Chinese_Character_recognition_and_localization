@@ -21,7 +21,7 @@ The goal of this project is to recognize and localize the multiple chinese chara
 ## Result
 **1. Flow Chart**
 <center>
-<img src="./Flow/flow.jpg" >
+<img src="./results/flow.jpg" >
 <br>
 </center>
 
